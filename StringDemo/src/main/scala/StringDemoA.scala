@@ -73,7 +73,7 @@ object StringDemoA {
     //java string methods
     //data-flair.training/blogs/scala-string-method
     /*
-    * agb
+    * revisado: 20220122
     * */
   }
 }
